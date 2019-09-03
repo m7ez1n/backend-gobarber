@@ -1,0 +1,11 @@
+{
+  "name": "restructuring-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:m7Aei/restructuring-nodejs.git",
+  "author": "m7Aei <mateuspm2015@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
