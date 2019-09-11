@@ -62,6 +62,15 @@ class AppointmentController {
     }
 
     /**
+     * Fazendo a validação se o user_id é igual o provider_id
+     */
+    if (req.userId === provider_id) {
+      res
+        .status(400)
+        .json({ error: 'Você não pode marcar horário com você mesmo' });
+    }
+
+    /**
      * Validando se a data já passou
      */
 
