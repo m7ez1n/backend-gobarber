@@ -1,6 +1,6 @@
-# Restructuring Nodejs :relaxed:
+# Backend GoBarber :relaxed:
 
-Esse repositório foi criado com o destino de reestruturar um projeto em node. O projeto que vou usar coisas novas é o [GoBarber](https://github.com/m7Aei/challenge-2-GoBarber). Vou usar algumas coisas novas, como:
+Esse repositório foi criado com o destino de reestruturar um projeto em node. O projeto que vou usar para aplicar coisas novas é o [GoBarber](https://github.com/m7Aei/challenge-2-GoBarber). Coisas novas que usarei, como:
 
 * Sucrase
 * Import/Export
